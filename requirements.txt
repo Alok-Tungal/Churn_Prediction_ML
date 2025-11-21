@@ -1,20 +1,4 @@
-# Streamlit
 streamlit==1.48.1
-
-# Core data libraries
-numpy>=1.23,<1.24
+numpy==1.23.5
 pandas==2.2.2
-
-# Machine learning
-scikit-learn==1.5.1
-shap==0.46.0
-joblib==1.4.2
-
-# Visualization
-matplotlib==3.9.2
-seaborn==0.13.2
-plotly==5.22.0
-
-# Optional but useful
-numba==0.56.4
-llvmlite==0.39.1
+scikit-learn==1.5.2
